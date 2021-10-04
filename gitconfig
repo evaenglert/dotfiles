@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = englert.franciska@gmail.com
+	name = Franciska Englert
